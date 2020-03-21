@@ -1,0 +1,20 @@
+.arlo_fn_width100{
+	width: 100%;
+}
+.arlo_fn_widget_bh_days{
+	width: auto;
+	margin-left: -10px;
+}
+.arlo_fn_widget_bh_days:after{
+	content: '';
+	display: table;
+	clear: both;
+}
+.arlo_fn_widget_bh_days > p{
+	width: 50%;
+	float: left;
+	padding-left: 10px;
+	
+	box-sizing: border-box;
+}
+.redux-notice,.redux-message,.rAds{display: none !important;}
