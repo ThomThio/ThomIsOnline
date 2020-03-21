@@ -42,6 +42,7 @@
 					}; 
 				}
 				?>
+			[social_icons_obvs]
 		</div>
 	</div>
 </div>
